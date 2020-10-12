@@ -43,3 +43,18 @@ Now that our data is prepared within the database, it's finally time to identify
   * Using Plotly Express, create a series of six box plots, one for each month, in order to identify how many outliers there are per month for cardholder ID 25.
 
   * Do you notice any anomalies? Describe your observations and conclusions.
+  
+  
+  ## Challenge
+
+Another approach to identify fraudulent transactions is to look for outliers in the data. Standard deviation or quartiles are often used to detect outliers.
+
+# These materials below helped us understand and maximize this process 
+
+* [How to Calculate Outliers](https://www.wikihow.com/Calculate-Outliers)
+
+* [Removing Outliers Using Standard Deviation in Python](https://www.kdnuggets.com/2017/02/removing-outliers-standard-deviation-python.html)
+
+* [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
+
+
